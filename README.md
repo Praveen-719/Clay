@@ -2,9 +2,13 @@
 
   This project is CLAY an UNIVERSAL BILLING SOFTWARE SYSTEM
 
-Reqirements:
+Requirements
+  >>> Python 3.6+
+  >>> Virtulenv
 
-> > python 3.12
+# Install Requirements
 
-> > virtulenv 
+   $ pip install require.txt
+
+
  
