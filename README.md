@@ -5,5 +5,6 @@
 Reqirements:
 
 > > python 3.12
+
 > > virtulenv 
  
