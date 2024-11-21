@@ -1,5 +1,5 @@
-# HI All
+# HI 
 
-  This project CLAY is UNIVERSAL BILLING SOFTWARE SYSTEM
+  This project is CLAY an UNIVERSAL BILLING SOFTWARE SYSTEM
 
     
